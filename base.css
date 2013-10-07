@@ -1,0 +1,24 @@
+body, h1, h2,div, ul, li {
+  margin:0;
+  padding:0;
+}
+
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  background-color: #000;
+  color:#292929;
+}
+
+ol, ul, li {
+list-style:none;
+}
+
+a {
+color:#890101;
+text-decoration:none;
+transition: 0.2s color linear;
+}
+
+a:hover {
+color:#DF3030
+}
